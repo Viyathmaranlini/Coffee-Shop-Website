@@ -24,6 +24,12 @@ A responsive and modern coffee shop website built using HTML, CSS, and JavaScrip
 
 ---
 
+## 📸 Preview
+
+![Screenshot 2025-06-01 173233](https://github.com/user-attachments/assets/af216846-329b-4c5c-9e69-2d28b8af30bd)
+
+
+---
 
 ## 📁 Folder Structure
 
