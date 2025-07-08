@@ -38,6 +38,6 @@ coffee-shop-website/
 
  Clone the repository  
    ```bash
-   git clone https://github.com/Viyathmaranlini/Coffe-Shop-website.git
+   git clone https://github.com/Viyathmaranlini/coffe-shop-website.git
 
 
