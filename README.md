@@ -26,13 +26,15 @@ A responsive and modern coffee shop website built using HTML, CSS, and JavaScrip
 
 ## 📁 Folder Structure
 
+```bash
 coffee-shop-website/
-│
 ├── index.html
+├── about.html
 ├── style.css
 ├── script.js
-├── images
-└── ...
+├── /images
+└── README.md
+```
 
 ## 🚀 Getting Started
 
